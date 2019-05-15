@@ -1,0 +1,10 @@
+server:
+  port: 9090
+aws:
+  endpoint: http://localhost:4572
+  credentials:
+    accessKey: theaccesskey
+    secretKey: thesecretkey
+  region: us-east-1
+  s3:
+    bucketName: thebucket
