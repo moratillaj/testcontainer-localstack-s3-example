@@ -6,6 +6,7 @@ import lombok.Data;
 @Data
 @Builder
 public class TextContent {
-    private String key;
-    private String text;
+
+  private String key;
+  private String text;
 }
